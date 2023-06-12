@@ -1,0 +1,16 @@
+name: test-repo
+id: ari:cloud:compass:94068512-8c78-470b-8547-6c7d35cc10ad:component/77552e6e-0f45-4aa2-b134-5e1add8b1391/a43713ff-4fc3-4806-ad78-81568986dfdc
+description: null
+configVersion: 1
+typeId: UI_ELEMENT
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/ayang9-atl/test-repo
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
